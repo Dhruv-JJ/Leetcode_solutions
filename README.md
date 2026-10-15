@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0561-array-partition](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0561-array-partition/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0561-array-partition](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0561-array-partition/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0561-array-partition/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
