@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0561-array-partition](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0561-array-partition/) | Easy |
+| [0896-monotonic-array](https://github.com/Dhruv-JJ/Leetcode_solutions/tree/main/0896-monotonic-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
